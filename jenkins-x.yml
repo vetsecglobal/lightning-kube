@@ -1,0 +1,5 @@
+pipelineConfig:
+  env:
+  - name: CHART_REPOSITORY
+    value: https://chartmuseum-jx.vets.ml
+  pipelines: {}

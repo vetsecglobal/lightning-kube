@@ -1,4 +1,4 @@
-CHART_REPO := http://jenkins-x-chartmuseum:8080
+CHART_REPO := https://chartmuseum-jx.vets.ml/
 CURRENT=$(pwd)
 NAME := lightning-kube
 OS := $(shell uname)
